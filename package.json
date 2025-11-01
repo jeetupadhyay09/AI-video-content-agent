@@ -1,0 +1,16 @@
+{
+  "name": "ai-video-content-agent",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jeet Upadhyay",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "node-cron": "^4.2.1",
+    "upload-post": "^1.0.3"
+  }
+}
