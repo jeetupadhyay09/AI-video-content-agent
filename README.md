@@ -167,7 +167,7 @@ AI Automation Engineer • Creative Systems Architect
 ## 📚 Resources
 
 * [Ollama Docs](https://ollama.ai/docs)
-* [Wan 2.1 on Hugging Face](https://huggingface.co/TencentARC/Wan2.1-T2V-1.3B)
+* [Wan 2.1 on Hugging Face](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)
 * [UploadPost Docs](https://upload-post.com/docs)
 * [Express Static Files](https://expressjs.com/en/starter/static-files.html)
 
