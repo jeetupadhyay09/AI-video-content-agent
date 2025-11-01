@@ -64,7 +64,7 @@ ollama run llama3
 ## 🎬 Step 2: Wan 2.1 (Text2Video)
 
 Get model from Hugging Face:
-👉 [https://huggingface.co/TencentARC/Wan2.1-T2V-1.3B](https://huggingface.co/TencentARC/Wan2.1-T2V-1.3B)
+👉 [https://huggingface.co/TencentARC/Wan2.1-T2V-1.3B](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)
 
 ```bash
 git clone https://huggingface.co/TencentARC/Wan2.1-T2V-1.3B
