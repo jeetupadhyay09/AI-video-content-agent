@@ -156,7 +156,7 @@ ai-video-content-agent/
 
 **Jeet Upadhyay**
 AI Automation Engineer • Creative Systems Architect
-🌐 [GitHub](https://github.com/jeetupadhyay)
+🌐 [GitHub](https://github.com/jeetupadhyay09)
 
 ---
 
